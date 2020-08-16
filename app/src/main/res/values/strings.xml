@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Music Player By Teti</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="all_songs_text">All Songs</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="artist_text">Artists</string>
+
+</resources>
+
+
